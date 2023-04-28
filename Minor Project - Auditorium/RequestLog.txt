@@ -1,0 +1,30 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Name            Last_Name       Age   Phone number    Email                          Event Name           Event date           Event Time           Status               Operation 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Janvi           Singh           28    4565678798      try2@gmail.com                 Dance Competition    2023-05-30           09:00 - 16:00        Pending              Added     
+Divya           Singal          19    2178671212      singal@gmail.com               Art Fest             2023-06-11           09:00 - 16:00        Pending              Added     
+Aditya          kumar           23    9876233221      aditya@gmail.com               TEDxTalk             2023-06-03           12:00 - 14:00        Pending              Updated   
+Divya           Singal          19    2178671212      singal@gmail.com               Art Fest             2023-06-11           09:00 - 16:00        Pending              Deleted   
+Harsh           kumar           21    1221121221      111                            hhh                  asd                  asd                  Pending              Updated   
+Harsh           kumar           21    1221121221      111                            hhh                  asd                  asd                  Pending              Deleted   
+Yash            Chopra          45    8987763489      yash@gmail.comm                Film Making          2023-06-23           09:00 - 18:00        Pending              Added     
+Harsh           kumar           21    7868789889      harsh@yahoo.com                Hackathon            2023-06-03           09:00 - 18:00        Pending              Added     
+Harsh           kumar           21    7868789889      harsh@yahoo.com                Hackathon            2023-06-03           09:00 - 18:00        Pending              Added     
+varun           chauhan         18    9650226550      chauhanvarun093@gmail.com      concert              2023-12-18           12:00-12:00          Pending              Added     
+varun           chauhan         18    9650226550      chauhanvarun093jaf             afhksd               faajdsf              askdhf               Pending              Added     
+varun           chauhan         18    9650226550      chauhanvarun093jaf             afhksd               faajdsf              askdhf               Pending              Deleted   
+Ankur           Kumar           22    9898989898      ankurkushwaha@gmail.com        Hackathon            2023-12-11           12:00-18:00          Pending              Added     
+Dhruv           Arora           25    9716666090      dhruv@gmail.com                Birthday party       2003-04-02           16:00-17:00          Pending              Added     
+Dia             Kapoor          20    8787877878      dia@gmail.com                  Dance                2023-05-31           14:00 - 18:00        Declined             Updated   
+Dia             Kapoor          20    8787877878      dia@gmail.com                  Dance                2023-05-31           14:00 - 18:00        Approved             Deleted   
+Divya           Singal          20    9898989898      divya@gmail.com                Kalakriti            2023-04-25           13:00 - 14:00        Pending              Added     
+Dimple          Singal          19    8998988998      divya@gmail.com                kalakriti Farewell   2023-05-25           13:00 - 15:00        Approved             Updated   
+Dimple          Singal          19    8998988998      divya@gmail.com                kalakriti Farewell   2023-05-25           13:00 - 15:00        Pending              Deleted   
+Divya           Singal          20    9889898989      divya@gmail.com                Kalakriti            2023-05-11           12:00 - 14:00        Pending              Added     
+harsh           kumar           20    9878978982      harshk@yahoo.com               bvimr farewell       2023-05-08           12:00-17:00          Pending              Added     
+harsh           kumar           20    9878978982      harshk@yahoo.com               bvimr farewell       2023-05-08           12:00-17:00          Pending              Deleted   
+Muskan          Gupta           21    9879879877      mg@gmail.com                   women empowerment    2023-05-05           12:00-15:00          Pending              Added     
+khushi          tyagi           19    6789067890      kt@gmail.com                   women workshop       2023-08-08           12:00-15:00          Pending              Added     
+bhature         chole           29    0987654321      cholebhature@gmail.com         eating competition   2030-11-18           12:00-12:00          Pending              Added     
+Harsh           Singh           21    8998989898      try2@gmail.com                 Dance competition    2023-05-21           12:00-13:00          Pending              Added     
+Sunil           Singh           23    9889899889      try1@gmail.com                 sda                  21232                123                  Declined             Updated   
